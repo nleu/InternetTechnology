@@ -1,0 +1,64 @@
+Host: iperf.he.net
+Hop count: 12
+1. avg 162.984 mdev 0.332
+2. avg 162.962 mdev 0.329
+3. avg 163.016 mdev 0.330
+Total AVG 162.987
+Jitter 0.330336
+Done
+Host: bouygues.testdebit.info
+Hop count: 25
+1. avg 286.731 mdev 0.442
+2. avg 286.767 mdev 0.618
+3. avg 286.710 mdev 0.618
+Total AVG 286.736
+Jitter 0.565453
+Done
+Host: st2.nn.ertelecom.ru
+Hop count: 25
+1. avg 351.953 mdev 0.024
+2. avg 351.934 mdev 0.038
+3. avg 351.963 mdev 0.489
+Total AVG 351.95
+Jitter 0.283514
+Done
+Host: iperf.biznetnetworks.com
+Hop count: 15
+1. avg 148.824 mdev 0.316
+2. avg 148.786 mdev 0.452
+3. avg 148.904 mdev 0.456
+Total AVG 148.838
+Jitter 0.413157
+Done
+Host: iperf.volia.net
+Hop count: 32
+1. avg 345.105 mdev 0.480
+2. avg 345.053 mdev 0.678
+3. avg 345.079 mdev 0.480
+Total AVG 345.079
+Jitter 0.553921
+Done
+Host: iperf.it-north.net
+Hop count: 23
+1. avg 418.484 mdev 0.752
+2. avg 418.424 mdev 0.047
+3. avg 418.426 mdev 0.529
+Total AVG 418.445
+Jitter 0.531524
+Done
+Host: ping.online.net
+Hop count: 17
+1. avg 301.058 mdev 0.029
+2. avg 301.052 mdev 0.634
+3. avg 301.021 mdev 0.448
+Total AVG 301.044
+Jitter 0.448516
+Done
+Host: speedtest.wtnet.de
+Hop count: 100
+1. avg 308.151 mdev 0.065
+2. avg 308.168 mdev 0.641
+3. avg 308.136 mdev 0.641
+Total AVG 308.152
+Jitter 0.524718
+Done
