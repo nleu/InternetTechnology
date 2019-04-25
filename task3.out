@@ -1,0 +1,200 @@
+iperf.he.net
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=1 ttl=50 time=163 ms
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=2 ttl=50 time=162 ms
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=3 ttl=50 time=162 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 162.928/162.984/163.036/0.332 ms
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=1 ttl=50 time=162 ms
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=2 ttl=50 time=162 ms
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=3 ttl=50 time=162 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 162.948/162.962/162.977/0.329 ms
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=1 ttl=50 time=162 ms
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=2 ttl=50 time=163 ms
+64 bytes from 216.218.227.10 (216.218.227.10): icmp_seq=3 ttl=50 time=163 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 162.984/163.016/163.043/0.330 ms
+bouygues.testdebit.info
+PING bouygues.testdebit.info (89.84.1.222) 56(84) bytes of data.
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=1 ttl=39 time=286 ms
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=2 ttl=39 time=286 ms
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=3 ttl=39 time=286 ms
+
+--- bouygues.testdebit.info ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 286.637/286.731/286.802/0.442 ms
+PING bouygues.testdebit.info (89.84.1.222) 56(84) bytes of data.
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=1 ttl=39 time=286 ms
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=2 ttl=39 time=286 ms
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=3 ttl=39 time=286 ms
+
+--- bouygues.testdebit.info ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 286.734/286.767/286.803/0.618 ms
+PING bouygues.testdebit.info (89.84.1.222) 56(84) bytes of data.
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=1 ttl=39 time=286 ms
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=2 ttl=39 time=286 ms
+64 bytes from 89.84.1.222 (89.84.1.222): icmp_seq=3 ttl=39 time=286 ms
+
+--- bouygues.testdebit.info ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 286.683/286.710/286.726/0.618 ms
+st2.nn.ertelecom.ru
+PING st2.nn.ertelecom.ru (91.144.184.232) 56(84) bytes of data.
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=1 ttl=43 time=351 ms
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=2 ttl=43 time=351 ms
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=3 ttl=43 time=351 ms
+
+--- st2.nn.ertelecom.ru ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 351.921/351.953/351.979/0.024 ms
+PING st2.nn.ertelecom.ru (91.144.184.232) 56(84) bytes of data.
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=1 ttl=43 time=351 ms
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=2 ttl=43 time=351 ms
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=3 ttl=43 time=351 ms
+
+--- st2.nn.ertelecom.ru ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 351.899/351.934/351.987/0.038 ms
+PING st2.nn.ertelecom.ru (91.144.184.232) 56(84) bytes of data.
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=1 ttl=43 time=351 ms
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=2 ttl=43 time=352 ms
+64 bytes from st2.nn.ertelecom.ru (91.144.184.232): icmp_seq=3 ttl=43 time=351 ms
+
+--- st2.nn.ertelecom.ru ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 351.912/351.963/352.063/0.489 ms
+iperf.biznetnetworks.com
+PING iperf.biznetnetworks.com (117.102.109.186) 56(84) bytes of data.
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=1 ttl=52 time=148 ms
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=2 ttl=52 time=148 ms
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=3 ttl=52 time=148 ms
+
+--- iperf.biznetnetworks.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 148.793/148.824/148.867/0.316 ms
+PING iperf.biznetnetworks.com (117.102.109.186) 56(84) bytes of data.
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=1 ttl=52 time=148 ms
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=2 ttl=52 time=148 ms
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=3 ttl=52 time=148 ms
+
+--- iperf.biznetnetworks.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 148.680/148.786/148.866/0.452 ms
+PING iperf.biznetnetworks.com (117.102.109.186) 56(84) bytes of data.
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=1 ttl=52 time=148 ms
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=2 ttl=52 time=148 ms
+64 bytes from 117.102.109.186 (117.102.109.186): icmp_seq=3 ttl=52 time=148 ms
+
+--- iperf.biznetnetworks.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 148.767/148.904/148.992/0.456 ms
+iperf.volia.net
+PING speedtest.volia.net (77.120.3.236) 56(84) bytes of data.
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=1 ttl=31 time=345 ms
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=2 ttl=31 time=345 ms
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=3 ttl=31 time=345 ms
+
+--- speedtest.volia.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 345.065/345.105/345.131/0.480 ms
+PING speedtest.volia.net (77.120.3.236) 56(84) bytes of data.
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=1 ttl=31 time=345 ms
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=2 ttl=31 time=345 ms
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=3 ttl=31 time=345 ms
+
+--- speedtest.volia.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 345.026/345.053/345.082/0.678 ms
+PING speedtest.volia.net (77.120.3.236) 56(84) bytes of data.
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=1 ttl=31 time=345 ms
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=2 ttl=31 time=345 ms
+64 bytes from speedtest.volia.com (77.120.3.236): icmp_seq=3 ttl=31 time=345 ms
+
+--- speedtest.volia.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 345.053/345.079/345.115/0.480 ms
+iperf.it-north.net
+PING iperf.it-north.net (82.200.209.194) 56(84) bytes of data.
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=1 ttl=41 time=418 ms
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=2 ttl=41 time=418 ms
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=3 ttl=41 time=418 ms
+
+--- iperf.it-north.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 418.419/418.484/418.611/0.752 ms
+PING iperf.it-north.net (82.200.209.194) 56(84) bytes of data.
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=1 ttl=41 time=418 ms
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=2 ttl=41 time=418 ms
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=3 ttl=41 time=418 ms
+
+--- iperf.it-north.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 418.363/418.424/418.480/0.047 ms
+PING iperf.it-north.net (82.200.209.194) 56(84) bytes of data.
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=1 ttl=41 time=418 ms
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=2 ttl=41 time=418 ms
+64 bytes from 82.200.209.194 (82.200.209.194): icmp_seq=3 ttl=41 time=418 ms
+
+--- iperf.it-north.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 418.389/418.426/418.463/0.529 ms
+ping.online.net
+PING ping.online.net (62.210.18.40) 56(84) bytes of data.
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=1 ttl=42 time=301 ms
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=2 ttl=42 time=301 ms
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=3 ttl=42 time=301 ms
+
+--- ping.online.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 301.024/301.058/301.095/0.029 ms
+PING ping.online.net (62.210.18.40) 56(84) bytes of data.
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=1 ttl=42 time=301 ms
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=2 ttl=42 time=301 ms
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=3 ttl=42 time=301 ms
+
+--- ping.online.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 301.026/301.052/301.091/0.634 ms
+PING ping.online.net (62.210.18.40) 56(84) bytes of data.
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=1 ttl=42 time=301 ms
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=2 ttl=42 time=301 ms
+64 bytes from ping.online.net (62.210.18.40): icmp_seq=3 ttl=42 time=300 ms
+
+--- ping.online.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 300.991/301.021/301.037/0.448 ms
+speedtest.wtnet.de
+PING speedtest.wtnet.de (213.209.106.95) 56(84) bytes of data.
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=1 ttl=42 time=308 ms
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=2 ttl=42 time=308 ms
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=3 ttl=42 time=308 ms
+
+--- speedtest.wtnet.de ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 308.086/308.151/308.240/0.065 ms
+PING speedtest.wtnet.de (213.209.106.95) 56(84) bytes of data.
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=1 ttl=42 time=308 ms
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=2 ttl=42 time=308 ms
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=3 ttl=42 time=308 ms
+
+--- speedtest.wtnet.de ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 308.138/308.168/308.206/0.641 ms
+PING speedtest.wtnet.de (213.209.106.95) 56(84) bytes of data.
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=1 ttl=42 time=308 ms
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=2 ttl=42 time=308 ms
+64 bytes from speedtest.wtnet.de (213.209.106.95): icmp_seq=3 ttl=42 time=308 ms
+
+--- speedtest.wtnet.de ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 308.127/308.136/308.155/0.641 ms
